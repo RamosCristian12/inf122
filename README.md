@@ -1,3 +1,6 @@
 # inf122
-Cristian Abad Ramos Aruquipa
-inf 122
+Nombre: Cristian Abad Ramos Aruquipa
+
+Materia: inf 122
+
+Color: #0000ff 
